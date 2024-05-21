@@ -1,0 +1,46 @@
+{
+  "node": {
+    "616e1b792ef3ac0c044bee4397bba57f4dc7a112": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRaul%20C%5C%5CDesktop%5C%5Cfolder%5C%5Cnextjs-complete-guide-course-resources-main%5C%5Cattachments%5C%5Cauth%5C%5C01-starting-project%5C%5Cactions%5C%5Cauth-action.js%22%2C%5B%22auth%22%2C%22login%22%2C%22signup%22%2C%22logout%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/training/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRaul%20C%5C%5CDesktop%5C%5Cfolder%5C%5Cnextjs-complete-guide-course-resources-main%5C%5Cattachments%5C%5Cauth%5C%5C01-starting-project%5C%5Cactions%5C%5Cauth-action.js%22%2C%5B%22auth%22%2C%22login%22%2C%22signup%22%2C%22logout%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/(auth)/training/page": "rsc"
+      }
+    },
+    "5e13480fcacaaa9d71f1077b0e7a3a54ead17128": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRaul%20C%5C%5CDesktop%5C%5Cfolder%5C%5Cnextjs-complete-guide-course-resources-main%5C%5Cattachments%5C%5Cauth%5C%5C01-starting-project%5C%5Cactions%5C%5Cauth-action.js%22%2C%5B%22auth%22%2C%22login%22%2C%22signup%22%2C%22logout%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/training/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRaul%20C%5C%5CDesktop%5C%5Cfolder%5C%5Cnextjs-complete-guide-course-resources-main%5C%5Cattachments%5C%5Cauth%5C%5C01-starting-project%5C%5Cactions%5C%5Cauth-action.js%22%2C%5B%22auth%22%2C%22login%22%2C%22signup%22%2C%22logout%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/(auth)/training/page": "rsc"
+      }
+    },
+    "4db8ca920ea93b17712a7fd5c4ebb8fd6b624b5b": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRaul%20C%5C%5CDesktop%5C%5Cfolder%5C%5Cnextjs-complete-guide-course-resources-main%5C%5Cattachments%5C%5Cauth%5C%5C01-starting-project%5C%5Cactions%5C%5Cauth-action.js%22%2C%5B%22auth%22%2C%22login%22%2C%22signup%22%2C%22logout%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/training/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRaul%20C%5C%5CDesktop%5C%5Cfolder%5C%5Cnextjs-complete-guide-course-resources-main%5C%5Cattachments%5C%5Cauth%5C%5C01-starting-project%5C%5Cactions%5C%5Cauth-action.js%22%2C%5B%22auth%22%2C%22login%22%2C%22signup%22%2C%22logout%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/(auth)/training/page": "rsc"
+      }
+    },
+    "8122b176619d995b6be88b36428ae6105a61a8a3": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRaul%20C%5C%5CDesktop%5C%5Cfolder%5C%5Cnextjs-complete-guide-course-resources-main%5C%5Cattachments%5C%5Cauth%5C%5C01-starting-project%5C%5Cactions%5C%5Cauth-action.js%22%2C%5B%22auth%22%2C%22login%22%2C%22signup%22%2C%22logout%22%5D%5D%5D&__client_imported__=true!",
+        "app/(auth)/training/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CRaul%20C%5C%5CDesktop%5C%5Cfolder%5C%5Cnextjs-complete-guide-course-resources-main%5C%5Cattachments%5C%5Cauth%5C%5C01-starting-project%5C%5Cactions%5C%5Cauth-action.js%22%2C%5B%22auth%22%2C%22login%22%2C%22signup%22%2C%22logout%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/(auth)/training/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "rQiPdyHOmKtdUS6Fbm5aGNNRIQHtFrUAQVeSin9lWPg="
+}
